@@ -1,7 +1,10 @@
 # BitSharp
 BitSharp is a **interpreter** that can run code out of images.
+
 It scan *every pixel* to interprete a command, and can interprete **arguments**.
+
 The first line of pixels is used to store **instructions** like *printing*, *set title*, etc...
+
 The arguments are in the *Y axis*
 
 ## Instructions
@@ -13,10 +16,12 @@ The arguments are in the *Y axis*
 *Magenta* (255, 0, 255) : Wait for specified amount of time (in seconds)
 
 ##String Arguments
+
 Characters are colors too, the list is below
 Colors are in RGB format
 
 ###Letters
+
 *A* : (255, 0, 0)
 *B* : (255, 255, 0)
 *C* : (0, 255, 0)
@@ -46,10 +51,12 @@ Colors are in RGB format
 *Space* : (0, 0, 0)
 
 ###Numbers
+
 The numbers colors code are more easy !
 Just (50, number beetween 0 and 9, 0)
 Exemple : *5* = (50, 5, 0)
 Another Exemple : *15* = (50, 1, 0) and below (50, 5, 0)
 
 ##Hello World
+
 A *Hello World Exemple* is in **Bin/Debug/hello_world.png**
