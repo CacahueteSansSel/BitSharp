@@ -1,5 +1,5 @@
 # BitSharp
-BitSharp is a **interpreter** that can run code out of images.\n
+BitSharp is a **interpreter** that can run code out of images.
 It scan *every pixel* to interprete a command, and can interprete **arguments**.
 The first line of pixels is used to store **instructions** like *printing*, *set title*, etc...
 The arguments are in the *Y axis*
