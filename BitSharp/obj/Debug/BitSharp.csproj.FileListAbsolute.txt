@@ -1,0 +1,6 @@
+C:\Users\Gatta\source\repos\BitSharp\BitSharp\bin\Debug\BitSharp.exe
+C:\Users\Gatta\source\repos\BitSharp\BitSharp\bin\Debug\BitSharp.pdb
+C:\Users\Gatta\source\repos\BitSharp\BitSharp\obj\Debug\BitSharp.csprojResolveAssemblyReference.cache
+C:\Users\Gatta\source\repos\BitSharp\BitSharp\obj\Debug\BitSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gatta\source\repos\BitSharp\BitSharp\obj\Debug\BitSharp.exe
+C:\Users\Gatta\source\repos\BitSharp\BitSharp\obj\Debug\BitSharp.pdb
